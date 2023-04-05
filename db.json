@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "firstName": "Dion",
+      "lastName": "Perera",
+      "email": "dion@gmail.com",
+      "mobile": "0312245698",
+      "salary": "80000"
+    },
+    {
+      "id": 5,
+      "firstName": "Shane",
+      "lastName": "Fernando",
+      "email": "shn@gmail.com",
+      "mobile": "0312245698",
+      "salary": "1000000"
+    },
+    {
+      "id": 6,
+      "firstName": "Sara",
+      "lastName": "Fdo",
+      "email": "fdo@gmail.com",
+      "mobile": "0775896578",
+      "salary": "800000"
+    },
+    {
+      "id": 7,
+      "firstName": "Roy",
+      "lastName": "Fernando",
+      "email": "roy@gmail.com",
+      "mobile": "0778597899",
+      "salary": "5000000"
+    },
+    {
+      "id": 8,
+      "firstName": "Nimal",
+      "lastName": "Perera",
+      "email": "nimal@gmail.com",
+      "mobile": "0778965477",
+      "salary": "900000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
